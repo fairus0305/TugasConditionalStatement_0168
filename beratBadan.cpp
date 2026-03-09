@@ -15,7 +15,7 @@ string BMI(float r)
     else if (r <= 30)
         return "berat badan berlebihan";
     else
-        return "Obes";
+        return "Obesitas";
 }
 
 int main()
