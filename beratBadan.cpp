@@ -12,5 +12,8 @@ string BMI(float r)
         return "berat badan normal";
     else if(r <=18.5)
         return "berat badan kurang";
+    else if (r <= 30)
+        return "berat badan berlebihan";
     else
+        return "Obesitas";
 }
