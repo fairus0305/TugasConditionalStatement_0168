@@ -22,3 +22,10 @@ int main()
 {
     float bb, tb, rerata;
     string status;
+
+    
+    cout << "masukan berat badan anda : ";
+    cin >> bb;
+    
+
+}
