@@ -30,4 +30,8 @@ int main()
     cin >> tb;
 
     rerata = Rata_rata(bb, tb);
+    
+    cout << "--------------- HASIL ---------------- " << endl;
+    cout << "BMI anda : " << rerata << endl;
+    cout << "status   : " << BMI(rerata) << endl;
 }
