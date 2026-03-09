@@ -28,4 +28,6 @@ int main()
     cin >> bb;
     cout << "masukan tinggi badan anda : ";
     cin >> tb;
+
+    rerata = Rata_rata(bb, tb);
 }
