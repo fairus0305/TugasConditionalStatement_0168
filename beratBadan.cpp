@@ -23,10 +23,9 @@ int main()
     float bb, tb, rerata;
     string status;
 
-    
+    cout << "-- SELAMAT DATANG MAHASISWA A 2025 -- " << endl;
     cout << "masukan berat badan anda : ";
     cin >> bb;
     cout << "masukan tinggi badan anda : ";
     cin >> tb;
-
 }
