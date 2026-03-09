@@ -24,9 +24,9 @@ int main()
     string status;
 
     cout << "-- SELAMAT DATANG MAHASISWA A 2025 -- " << endl;
-    cout << "masukan berat badan anda : ";
+    cout << "masukan berat badan anda (kg): ";
     cin >> bb;
-    cout << "masukan tinggi badan anda : ";
+    cout << "masukan tinggi badan anda (meter): ";
     cin >> tb;
 
     rerata = Rata_rata(bb, tb);
