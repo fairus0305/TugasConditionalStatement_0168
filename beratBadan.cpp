@@ -26,6 +26,7 @@ int main()
     
     cout << "masukan berat badan anda : ";
     cin >> bb;
-    
+    cout << "masukan tinggi badan anda : ";
+    cin >> tb;
 
 }
